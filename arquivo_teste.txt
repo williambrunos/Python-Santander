@@ -1,0 +1,4 @@
+Testando o método "r+"
+revi com Python
+Estou aprendendo a manipular arquivos com Python
+Esta é a terceira linha utilizando o método "a" -> append
